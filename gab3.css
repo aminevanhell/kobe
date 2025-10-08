@@ -1,0 +1,79 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color: bisque;
+}
+.list{
+    display: flex;
+    gap: 50px;
+    padding-right: 20vh;
+}
+.list a{
+    color: black;
+}
+.pict img{
+    width: 100px;
+    border-radius: 20px;
+    margin-left: 20vh;
+}
+.list button{
+    width: 100px;
+    border-radius: 10px;
+    background-color:brown;
+    height: 50px;
+}
+.cont{
+display: flex;
+justify-content: space-between;
+}
+.cont h1{
+    margin-left: 1vh;
+}
+.cont h2{
+    margin-left: 1vh;
+}
+.txt{
+margin-top: 20vh;
+margin-left: 20vh;
+}
+.txt h5{
+   color: rgb(147, 172, 164); 
+}
+.btn{
+    display: flex;
+    gap: 50px;
+    height: 80px;
+}
+.btn button{
+    border-radius: 10px;
+    width: 20vh;
+}
+.bt1{
+    background-color: brown;
+}
+.bt2{
+    color: brown;
+    border-color: brown;
+}
+.img2{
+    background-color:brown;
+    margin-top: 110px;
+    border-radius: 20px;
+    border-color: rgba(196, 9, 9, 0.895);
+    margin-right: 20vh;
+    padding-right: 20vh
+}
+.img2 img{
+    margin-top: 3vh;
+    border-radius: 40px;
+    border-color: black;
+    margin-left: 20vh;
+}
+.img2 h2{
+    margin-left: 28vh;
+}
+.img2 i{
+    margin-left: 29vh;
+}
